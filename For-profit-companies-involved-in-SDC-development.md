@@ -1,3 +1,3 @@
-[[Companies/Google]]
+[[Google|Companies-Google]]
 
-[[Companies/Tesla]]
+[[Tesla|Companies-Tesla]]
