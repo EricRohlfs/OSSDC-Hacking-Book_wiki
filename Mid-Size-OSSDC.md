@@ -1,5 +1,5 @@
 
-# Components for OSSDC e-kart
+# Hardware components for OSSDC e-kart
 
 - Low power waterproof connectors
     - [E-TING 10 Kit Set Car Waterproof Electrical Wire Connector Plug 3 Pin Way Terminals HID](http://a.co/cDR3Unm)
