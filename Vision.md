@@ -8,4 +8,4 @@ This book will collect/explain/demo, in an ongoing manner, (being continually up
 
 # Role of the community
 
-Another important motive of the initiative, is to bring together as many people as possible interested in [Learn, Teach, Invent, Make!](https://twitter.com/hashtag/LearnTeachInventMake) in this fascinating autonomous robots space.
+Another important motive of the initiative, is to bring together as many people as possible interested to [Learn, Teach, Invent, Make!](https://twitter.com/hashtag/LearnTeachInventMake) in this fascinating autonomous robots space.
