@@ -6,7 +6,7 @@
 
 - Auvidea TX1 carrier boards:
     - [[https://auvidea.com/jetson/]]
-![Auvidea TX1 line](https://auvidea.com/images/auvidea/Auvidea_TX1_line.JPG)
+    - [Auvidea TX1 line](https://auvidea.com/images/auvidea/Auvidea_TX1_line.JPG)
 
 - Auvidea J106 carrier board for 6 CSI-2 devices 
     - [[https://auvidea.com/j106/]]
