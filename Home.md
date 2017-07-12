@@ -46,6 +46,6 @@ Welcome to the OSSDC-Hacking-Book wiki!
 
 # Contributors to OSSDC book and platform
 - [[Authors and editors]]
-- [[Friends]]
+- [[Friends / Supporters]]
 - [[Acknowledgements]]
 - [[Awards]]
