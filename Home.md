@@ -26,7 +26,7 @@ Welcome to the OSSDC-Hacking-Book wiki!
 # Build your own OSSDC Components
 - [[OSSDC Smart Camera Mono/Stereo/360 - Xilinx FPGA]]
 - [[OSSDC Smart Camera Mono/Stereo/360 - RaspberyPi3]]
-- [[OSSDC Smart Camera Mono/Stereo/360 - Nvidida TK1/TX1/TX2]]
+- [[OSSDC Smart Camera Mono/Stereo/360 - Nvidia TK1/TX1/TX2]]
 - [[OSSDC 360 LIDAR]]
 - [[OSSDC advanced computing desktop - single/dual GPU]]
 - [[OSSDC power supply for computing components]]
