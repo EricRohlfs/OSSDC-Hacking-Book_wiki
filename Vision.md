@@ -5,3 +5,7 @@ OSSDC Initiative was created to bring together the best open source technologies
 # Role of the book
 
 This book will collect/explain/demo, in an ongoing manner, (being continually updated to latest) tools, blueprints, technologies and components, that could be used to achieve this vision.
+
+# Role of the community
+
+Another important motive of the initiative, is to bring together as many people interested in [Learn, Teach, Invent, Make!](https://twitter.com/hashtag/LearnTeachInventMake) in this fascinating autonomous robots space.
