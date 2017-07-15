@@ -25,3 +25,5 @@ http://www.rctech.net/forum/electric-off-road/971626-self-driving-1-10-robotic-c
 https://www.raspberrypi.org/magpi/self-driving-rc-car/
 
 https://hackernoon.com/ghost-my-plan-to-race-an-autonomous-rc-car-46a4b7f093cd
+
+http://www.instructables.com/id/Arduino-Powered-Autonomous-Vehicle/
