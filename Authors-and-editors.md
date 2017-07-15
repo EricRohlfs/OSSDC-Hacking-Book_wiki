@@ -7,6 +7,8 @@
 - #### OSSDC Initiative founder
    - [OSSDC Website](http://ossdc.org)
    - [OSSDC Github](https://github.com/OSSDC)
+   - [OSSDC Slack](https://ossdc.slack.com/)
+   - [OSSDC Youtube related channel](https://www.youtube.com/channel/UCDPC2xnXxgQOFeZb1o185rQ)
 - #### GTA Robotics Group founder
    - [Twitter](https://twitter.com/GTARobotics)
    - [GTA Robotics Youtube channel](https://www.youtube.com/channel/UCDPC2xnXxgQOFeZb1o185rQ)
