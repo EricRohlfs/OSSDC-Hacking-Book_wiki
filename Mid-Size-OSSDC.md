@@ -2,7 +2,7 @@
 # Hardware components for OSSDC e-kart 
 
 ## Prototype 1 - using 350W e-Bike motor kit and windshield wiper motor for steering
-
+![OSSDC mid_size_sdc - Prototype 1 - e-kart](https://secure.meetupstatic.com/photos/event/8/6/a/4/600_461734468.jpeg)
 - Low power waterproof connectors
     - [E-TING 10 Kit Set Car Waterproof Electrical Wire Connector Plug 3 Pin Way Terminals HID](http://a.co/cDR3Unm)
 - High power connectors
