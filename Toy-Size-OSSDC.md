@@ -13,6 +13,8 @@ F1/10 Autonomous Racing - Autonomous Racing Competition 2017
 - http://f1tenth.org/car-assembly
 - https://www.youtube.com/watch?v=vgEyvazwrU8
 
+RC car GPS telemetry (arduino + nRF24L01 + android)
+- https://www.youtube.com/watch?v=uIHLcPocW5Y
 
 Autonomous Drifting using Machine Learning 
 - https://www.youtube.com/watch?v=opsmd5yuBF0
