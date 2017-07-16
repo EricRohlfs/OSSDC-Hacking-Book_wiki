@@ -1,5 +1,7 @@
 
-# Hardware components for OSSDC e-kart (Prototype 1 - using 350W e-Bike motor kit)
+# Hardware components for OSSDC e-kart 
+
+## Prototype 1 - using 350W e-Bike motor kit and windshield wiper motor for steering
 
 - Low power waterproof connectors
     - [E-TING 10 Kit Set Car Waterproof Electrical Wire Connector Plug 3 Pin Way Terminals HID](http://a.co/cDR3Unm)
@@ -13,6 +15,8 @@
     - [Qiorange 100Pcs 2A 3A 5A 7.5A 10A 15A 20A 25A 30A 35A car auto Blade Fuse Kit with FUSE PULLER Fuse Dimensions:19mm x 5mm x 18.5mm](http://a.co/dVn0zki)
 - Relays
     - [LANDZO 8-Channel Relay Module Board for Arduino](http://a.co/5AEBjzd)
+- Steering motor controller
+    - [Cytron 13A, 5-25V Single DC Motor Controller](http://www.robotshop.com/ca/en/cytron-13a-5-30v-single-dc-motor-controller.html) - CAD $18.68
 
 ## Related projects/components:
 
@@ -26,3 +30,13 @@ Electric bike part 2 (motor kit) - by [iforce2d](https://www.youtube.com/channel
 How To Build A Solar Charged RC Lawn Mower | [Robert's Website - Projects](http://www.robert-smith.net/my-projects)
 - http://www.robert-smith.net/my-projects/how-to-build-a-rc-lawn-mower/
 - https://www.youtube.com/watch?list=PLE60402EB48810C8F&v=yqfuwbv7VuI
+
+### Motor controllers for heavy duty robots
+
+- [The Guide To DC Motor Drivers for Heavy-Duty Robots](https://www.intorobotics.com/the-guide-to-dc-motor-drivers-for-heavy-duty-robots)
+
+- [Cytron 13A, 5-25V Single DC Motor Controller](http://www.robotshop.com/ca/en/cytron-13a-5-30v-single-dc-motor-controller.html) - CAD $18.68
+
+- [Pololu G2 High Power Motor Driver 13A, 6.5V-40V- 24v13](http://www.robotshop.com/ca/en/pololu-g2-high-power-motor-driver-13a-65v-40v-24v13.html) - CAD $40.47
+
+- [Cytron 30A 5-30V Single Brushed DC Motor Driver](http://www.robotshop.com/ca/en/cytron-30a-5-30v-single-brushed-dc-motor-driver.html) - CAD $49.66
