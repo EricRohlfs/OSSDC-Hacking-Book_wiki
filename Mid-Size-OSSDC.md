@@ -38,3 +38,5 @@
 - [Pololu G2 High Power Motor Driver 13A, 6.5V-40V- 24v13](http://www.robotshop.com/ca/en/pololu-g2-high-power-motor-driver-13a-65v-40v-24v13.html) - CAD $40.47
 
 - [Cytron 30A 5-30V Single Brushed DC Motor Driver](http://www.robotshop.com/ca/en/cytron-30a-5-30v-single-brushed-dc-motor-driver.html) - CAD $49.66
+
+- [Sabertooth Dual 2x32A 6V-24V Regenerative Motor Driver](http://www.robotshop.com/ca/en/sabertooth-dual-2x32a-6v-24v-regenerative-motor-driver.html) - CAD $168.91 
