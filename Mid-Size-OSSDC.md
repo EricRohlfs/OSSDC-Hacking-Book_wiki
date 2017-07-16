@@ -29,6 +29,8 @@
 - [How To Build A Solar Charged RC Lawn Mower](http://www.robert-smith.net/my-projects/how-to-build-a-rc-lawn-mower/) | [Robert's Website - Projects](http://www.robert-smith.net/my-projects)
     - [RC Lawn Mower (A.K.A. SCRCELM) Full Scale Demonstration](https://www.youtube.com/watch?list=PLE60402EB48810C8F&v=yqfuwbv7VuI)
 
+- [Radio Controlled Lawn Mower](https://www.youtube.com/watch?v=O5zIo4oEa8s)
+
 ### Motor controllers for heavy duty robots
 
 - [The Guide To DC Motor Drivers for Heavy-Duty Robots](https://www.intorobotics.com/the-guide-to-dc-motor-drivers-for-heavy-duty-robots)
