@@ -2,7 +2,7 @@ Welcome to the OSSDC-Hacking-Book wiki!
 
 # A live ongoing book about Self Driving Car (SDC) development, with focus on Open Source Self Driving Car Initiative platform and technologies.
 
-# [[Vision]]
+# [[Vision and Mission]]
 
 # OSSDC Platform
 - [[OSSDC Hardware Platform]]
